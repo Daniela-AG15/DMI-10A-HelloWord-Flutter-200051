@@ -16,7 +16,7 @@ class _CounterScreensState extends State<CounterScreens> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Contador-200051"),
+          title: Center(child:Text("Contador-200051")),
         ),
         body: Center(
           child: Center(
@@ -28,7 +28,7 @@ class _CounterScreensState extends State<CounterScreens> {
                         fontSize: 160, fontWeight: FontWeight.w100)),
                 const Text(
                   'Clicks',
-                  style: TextStyle(fontSize: 25),
+                  style: TextStyle(fontSize: 35),
                 )
               ],
             ),
