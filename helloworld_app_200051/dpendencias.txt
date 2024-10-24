@@ -1,0 +1,6 @@
+// Dependencias 
+flutter pub get
+// Se corre con ctrl shift p flutter launch
+pisel 6 
+// 
+run 
