@@ -4,7 +4,8 @@ flutter pub get
 pisel 6 
 // 
 run 
-
+//Actualizar
+flutter upgrade
 
 
 importM
