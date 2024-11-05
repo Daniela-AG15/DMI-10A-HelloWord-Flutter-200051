@@ -150,7 +150,7 @@ class CustomButton extends StatelessWidget {
     );
   }
 }
-
+###
 
 ## Resultados
 La aplicación funciona correctamente mostrando un contador interactivo que cambia de color según el valor actual del contador:
