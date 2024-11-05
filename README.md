@@ -150,3 +150,17 @@ class CustomButton extends StatelessWidget {
     );
   }
 }
+
+
+## Resultados
+La aplicación funciona correctamente mostrando un contador interactivo que cambia de color según el valor actual del contador:
+
+Verde cuando el contador es positivo.
+Rojo cuando el contador es negativo.
+Azul cuando el contador es cero.
+Los botones permiten incrementar, decrementar o restablecer el contador a cero, con un diseño claro y funcional.
+
+## Tecnologías utilizadas:
+Flutter para el desarrollo de la interfaz.
+Dart como lenguaje de programación.
+Capturas de pantalla
