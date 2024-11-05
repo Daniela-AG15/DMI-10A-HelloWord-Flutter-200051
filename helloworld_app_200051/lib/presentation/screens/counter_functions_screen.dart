@@ -111,7 +111,7 @@ class _CounterFunctionsScreenState extends State<CounterFunctionsScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Center(child: Text('CFS-210562')),
+          title: const Center(child: Text('C_F_S_-200051')),
         ),
         body: Center(
           child: Column(
@@ -130,7 +130,7 @@ class _CounterFunctionsScreenState extends State<CounterFunctionsScreen> {
                 ),
               ),
               Text(
-                clickCounter == 1 ? 'Click' : 'Clicks',
+                (clickCounter == 1 || clickCounter == -1) ? 'Click' : 'Clicks',
                 style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w100),
               )
             ],
