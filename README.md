@@ -12,10 +12,10 @@ Primera Aplicacion realizada en Flutter para dispositivos Moviles, parte de la u
 |21|Hello World App|pendiente|Activa|
 
 
-<img src="img\Logo.jpg" alt="Descripción de la imagen" width="300"/>
-
-
 # Tarea 06: Contador Interactivo en Flutter
+
+<img src="img\Logo.jpg" alt="Descripción de la imagen" width="300"/>
+<img src="img\utxj.jpg" alt="Descripción de la imagen" width="300"/>
 
 ### Datos del Estudiante
 - **Nombre:** Daniela Aguilar Torres  
@@ -154,7 +154,8 @@ class CustomButton extends StatelessWidget {
     );
   }
 }
-###
+
+```
 
 ## Resultados
 La aplicación funciona correctamente mostrando un contador interactivo que cambia de color según el valor actual del contador:
