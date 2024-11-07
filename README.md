@@ -182,13 +182,17 @@ class CustomButton extends StatelessWidget {
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Lista de Herramientas
 
-- **Flutter** para el desarrollo de la interfaz.
-- **Dart** como lenguaje de programación.
+- **Dart**
+- **Flutter**
 
 ---
 
+## 🖋️ Autor
+
+Elaborado por: Daniela Aguilar Torres  
+GitHub: [@Daniela-AG15](https://github.com/Daniela-AG15)
 
 ### 💡 ¡Gracias por visitar este repositorio!
 
