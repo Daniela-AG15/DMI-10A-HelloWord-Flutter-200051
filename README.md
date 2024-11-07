@@ -11,6 +11,10 @@ Primera Aplicacion realizada en Flutter para dispositivos Moviles, parte de la u
 |20|Instalacion y Configuracion de Flutter|1|Activa|
 |21|Hello World App|pendiente|Activa|
 
+
+<img src="img\Logo.jpg" alt="Descripción de la imagen" width="300"/>
+
+
 # Tarea 06: Contador Interactivo en Flutter
 
 ### Datos del Estudiante
