@@ -165,6 +165,7 @@ class CustomButton extends StatelessWidget {
 
 
 ```
+---
 
 ## 🖼️ Resultados
 ## 📸 Capturas de Pantalla
@@ -194,5 +195,6 @@ class CustomButton extends StatelessWidget {
 Elaborado por: Daniela Aguilar Torres  
 GitHub: [@Daniela-AG15](https://github.com/Daniela-AG15)
 
+---
 ### 💡 ¡Gracias por visitar este repositorio!
 
