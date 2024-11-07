@@ -169,9 +169,9 @@ class CustomButton extends StatelessWidget {
 ## 🖼️ Resultados
 
 <p align="center">
-  <img src="Resultado1/utxj.jpg" alt="Resultado 1" width="250"/>
-  <img src="Resultado2/utxj.jpg" alt="Resultado 2" width="250"/>
-  <img src="Resultado3/utxj.jpg" alt="Resultado 3" width="250"/>
+  <img src="img/Resultado1.jpg" alt="Resultado 1" width="250"/>
+  <img src="img/Resultado2.jpg" alt="Resultado 2" width="250"/>
+  <img src="img/Resultado3.jpg" alt="Resultado 3" width="250"/>
 </p>
 
 ---
@@ -186,8 +186,8 @@ class CustomButton extends StatelessWidget {
 ## 📸 Capturas de Pantalla
 
 <p align="center">
-  <img src="Resultado4/utxj.jpg" alt="Captura 4" width="250"/>
-  <img src="Resultado5/utxj.jpg" alt="Captura 5" width="250"/>
+  <img src="img/Resultado4.jpg" alt="Captura 4" width="250"/>
+  <img src="img/Resultado5.jpg" alt="Captura 5" width="250"/>
 </p>
 
 ---
