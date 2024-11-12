@@ -15,7 +15,7 @@ Este proyecto consiste en el desarrollo de una aplicación en **Flutter** para d
 | No. | Nombre                                   | Potenciador | Estatus |
 | --- | ---------------------------------------- | ----------- | ------- |
 | 20  | Instalación y Configuración de Flutter   | 1           | Activa  |
-| 21  | Hello World App                          | Pendiente   | Activa  |
+| 21  | Hello World App                          | 14   | Activa  |
 
 ---
 
